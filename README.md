@@ -9,3 +9,4 @@ The resulting array will then by mixed, trimmed to the length specified by the u
 
 I created a loop that will continually keep spitting out different password options. 
 
+![Nicole](path to file)
